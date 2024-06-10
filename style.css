@@ -1,0 +1,45 @@
+
+h1{
+    color: blue;
+    padding: 5px ;
+    font-size: 50px;
+    text-align: center;
+    border-top: 5px;
+}
+h2{
+color: blueviolet;
+}
+h3 {
+    color: blueviolet;
+}
+h5{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color:darkgoldenrod;
+}
+p{
+    color:cyan
+}
+.catalog { 
+    color: #000;
+}
+
+.img_center{
+    border: 4px solid blueviolet;
+    margin: 0 auto;
+}
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
